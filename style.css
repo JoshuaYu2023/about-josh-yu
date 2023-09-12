@@ -1,0 +1,10 @@
+body{
+    background-image: url("photo-of-me.JPG");
+    background-position: right;
+    background-repeat: no-repeat;
+    width: 657px;
+    height: 1166px;
+}
+.greenText{
+    color:darkgreen;
+}
