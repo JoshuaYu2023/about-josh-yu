@@ -1,4 +1,6 @@
 body{
+    text-shadow: darkblue; width:5px; height:5px;
+    background: aqua;
     background-image: url("photo-of-me.JPG");
     background-position: right;
     background-repeat: no-repeat;
@@ -8,3 +10,13 @@ body{
 .greenText{
     color:darkgreen;
 }
+
+.box {
+    width: 18em;
+    border: 5px solid;
+    border-color: blueviolet;
+    box-shadow: 8px 8px 5px;
+}
+
+
+
